@@ -7,5 +7,5 @@ Kanban board (pet project)
 - React-Bootstrap
 - Redux Tool Kit
 - Redux Tool Kit Query
-- Formik и Yup
+- Formik
 - SCSS
