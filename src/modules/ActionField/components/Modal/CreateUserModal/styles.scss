@@ -1,0 +1,25 @@
+.custom-modal {
+	&__body {
+		&__section {
+			display: flex;
+			justify-content: flex-start;
+			align-items: center;
+			width: auto;
+			height: auto;
+			border-radius: 50%;
+			flex-wrap: wrap;
+		}
+
+		&__avatar {
+			width: 55px;
+			height: 55px;
+			border-radius: 50%;
+			object-fit: cover;
+			background-size: cover;
+		}
+	}
+}
+
+.selected {
+	box-shadow: 0px 0px 15px rgb(0, 107, 179);
+}

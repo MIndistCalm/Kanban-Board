@@ -1,5 +1,5 @@
 # kanban_board
-Kanban board (pet project)
+Kanban board without Drag-n-drop
 
 - NodeJs версии 18.12.0
 - Typescript
